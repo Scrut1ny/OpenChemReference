@@ -156,32 +156,17 @@
 
 ### Whistle Mix Recipes
 
-**Potassium Perchlorate / Potassium Salicylate:**
+**Potassium Perchlorate and Salicylate:**
 
-| Chemical | % by weight | Source |
-|----------|-------------|--------|
-| Potassium Perchlorate (KClO₄) | 70% | [Pyrochemsource](https://www.pyrochemsource.com/search.asp?keyword=Potassium+Perchlorate) |
-| Potassium Salicylate (C₇H₅KO₃) | 28% | — |
-| Red Iron Oxide (Fe₂O₃) | 1% | [Pyrochemsource](https://www.pyrochemsource.com/Red-Iron-Oxide_p_36.html) |
-| Mineral Oil (or Vaseline) | 1% | [Walmart](https://www.walmart.com/ip/Equate-Mineral-Oil-Lubricant-Laxative-Liquid-for-Constipation-16-fl-oz-474mL/44807472) |
-
-**Potassium Perchlorate / Sodium Salicylate:**
-
-| Chemical | % by weight | Source |
-|----------|-------------|--------|
-| Potassium Perchlorate (KClO₄) | 70% | [Pyrochemsource](https://www.pyrochemsource.com/search.asp?keyword=Potassium+Perchlorate) |
-| Sodium Salicylate (C₇H₅NaO₃) | 28% | [Pyrochemsource](https://www.pyrochemsource.com/Sodium-Salicylate_p_69.html) |
-| Red Iron Oxide (Fe₂O₃) | 1% | [Pyrochemsource](https://www.pyrochemsource.com/Red-Iron-Oxide_p_36.html) |
-| Mineral Oil (or Vaseline) | 1% | [Walmart](https://www.walmart.com/ip/Equate-Mineral-Oil-Lubricant-Laxative-Liquid-for-Constipation-16-fl-oz-474mL/44807472) |
-
-**Potassium Perchlorate / Potassium Benzoate:**
-
-| Chemical | % by weight | Source |
-|----------|-------------|--------|
-| Potassium Perchlorate (KClO₄) | 70% | [Pyrochemsource](https://www.pyrochemsource.com/search.asp?keyword=Potassium+Perchlorate) |
-| Potassium Benzoate (KC₇H₅O₂) | 28% | [Pyrochemsource](https://www.pyrochemsource.com/Potassium-Benzoate_p_58.html) |
-| Red Iron Oxide (Fe₂O₃) | 1% | [Pyrochemsource](https://www.pyrochemsource.com/Red-Iron-Oxide_p_36.html) |
-| Mineral Oil (or Vaseline) | 1% | [Walmart](https://www.walmart.com/ip/Equate-Mineral-Oil-Lubricant-Laxative-Liquid-for-Constipation-16-fl-oz-474mL/44807472) |
+| Chemical                            | % by weight | Source                                                                                                 |
+|--------------------------------------|-------------|--------------------------------------------------------------------------------------------------------|
+| Potassium Perchlorate (KClO₄)       | 70%         | [Pyrochemsource](https://www.pyrochemsource.com/search.asp?keyword=Potassium+Perchlorate)              |
+| **Fuel (choose one from below):**    | 28%         | See below                                                                                              |
+| - Potassium Salicylate (C₇H₅KO₃)    |             | —                                                                                                      |
+| - Sodium Salicylate (C₇H₅NaO₃)      |             | [Pyrochemsource](https://www.pyrochemsource.com/Sodium-Salicylate_p_69.html)                           |
+| - Potassium Benzoate (KC₇H₅O₂)      |             | [Pyrochemsource](https://www.pyrochemsource.com/Potassium-Benzoate_p_58.html)                          |
+| Red Iron Oxide (Fe₂O₃)              | 1%          | [Pyrochemsource](https://www.pyrochemsource.com/Red-Iron-Oxide_p_36.html)                              |
+| Mineral Oil (or Vaseline)            | 1%          | [Walmart](https://www.walmart.com/ip/Equate-Mineral-Oil-Lubricant-Laxative-Liquid-for-Constipation-16-fl-oz-474mL/44807472) |
 
 ---
 
