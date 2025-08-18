@@ -79,6 +79,7 @@
 | Pure Cane Sugar (Sucrose) |  | Fuel, moderates burn rate |
 | Bentonite Clay (fragrance-free Cat Litter) | [Walmart](https://www.walmart.com/ip/Kitty-Diggin-s-Fragrance-Free-Cat-Litter-7-lbs/21268937) | Structural binder |
 | Acetone | [Walmart](https://www.walmart.com/ip/Rust-Oleum-Automotive-Acetone-248667-Quart/16652308) | Solvent |
+| Sulfuric Acid | [rmreagents](https://rmreagents.com/product/sulfuric-acid-1-normal) | Acid |
 
 ---
 
