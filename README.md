@@ -5,27 +5,6 @@
 
 ---
 
-## Table of Contents
-
-- [Chemical Information](#chemical-information)
-- [Pyro Tools & Supplies](#pyro-tools--supplies)
-- [Chemical Direct Purchase Links](#chemical-direct-purchase-links)
-- [Reference Table: Chemicals & Sources](#reference-table-chemicals--sources)
-- [Pyrotechnic Compositions](#pyrotechnic-compositions)
-  - [Fast Black Powder (Gunpowder)](#fast-black-powder-gunpowder)
-  - [Supernova Composition](#supernova-composition)
-  - [Flash Powder Compositions](#flash-powder-compositions)
-  - [Sugar Rockets](#sugar-rockets)
-  - [Whistle Rocket Fuel](#whistle-rocket-fuel)
-    - [Whistle Mix Recipes](#whistle-mix-recipes)
-- [Explosives](#explosives)
-  - [Tannerite](#tannerite)
-  - [Dynamite](#dynamite)
-    - [Nitroglycerin Production Guide](#nitroglycerin-production-guide)
-- [Miscellaneous Websites](#miscellaneous-websites)
-
----
-
 ## Chemical Information
 
 | Chemical | Description | Reference |
