@@ -134,7 +134,7 @@
 - [Sali Whistle Fuel](https://youtu.be/YRvYVXTemm0)
 - [Strobe Rocket Fuel](https://youtu.be/3CFI2yVjTHU)
 
-### Whistle Mix Recipes
+## Whistle Mix Recipes
 
 **Potassium Perchlorate and a Fuel:**
 
