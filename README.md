@@ -143,7 +143,7 @@
 | Potassium Perchlorate (KClO₄)       | Gallic Acid (C₇H₆O₅)                |             | -   | -                                |
 |                                     | Potassium Benzoate (KC₇H₅O₂)        |             | 100 | [Pyrochemsource](https://www.pyrochemsource.com/Potassium-Benzoate_p_58.html)                          |
 |                                     | Potassium Salicylate (C₇H₅KO₃)      |             | -   | -                                                                                                      |
-|                                     | Potassium Hydrogen Phthalate (KHP)  |             | <span style="color:red;">110</span> | [Pyrochemsource](https://www.pyrochemsource.com/Potassium-Hydrogen-Phthalate--KHP_p_104.html)          |
+|                                     | Potassium Hydrogen Phthalate (KHP)  |             | 110 | [Pyrochemsource](https://www.pyrochemsource.com/Potassium-Hydrogen-Phthalate--KHP_p_104.html)          |
 |                                     | Sodium Salicylate (C₇H₅NaO₃)        |             | -   | [Pyrochemsource](https://www.pyrochemsource.com/Sodium-Salicylate_p_69.html)                           |
 |                                     | Natrium Benzoate (C₇H₅NaO₂)         |             | 101 | -                            |
 
