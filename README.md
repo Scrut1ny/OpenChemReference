@@ -136,17 +136,27 @@
 
 ### Whistle Mix Recipes
 
-**Potassium Perchlorate and Salicylate:**
+**Potassium Perchlorate and a Fuel:**
 
-| Chemical                            | % by weight | Source                                                                                                 |
-|--------------------------------------|-------------|--------------------------------------------------------------------------------------------------------|
-| Potassium Perchlorate (KClO₄)       | 70%         | [Pyrochemsource](https://www.pyrochemsource.com/search.asp?keyword=Potassium+Perchlorate)              |
-| **Fuel (choose one from below):**    | 28%         | See below                                                                                              |
-| - Potassium Salicylate (C₇H₅KO₃)    |             | —                                                                                                      |
-| - Sodium Salicylate (C₇H₅NaO₃)      |             | [Pyrochemsource](https://www.pyrochemsource.com/Sodium-Salicylate_p_69.html)                           |
-| - Potassium Benzoate (KC₇H₅O₂)      |             | [Pyrochemsource](https://www.pyrochemsource.com/Potassium-Benzoate_p_58.html)                          |
-| Red Iron Oxide (Fe₂O₃)              | 1%          | [Pyrochemsource](https://www.pyrochemsource.com/Red-Iron-Oxide_p_36.html)                              |
-| Mineral Oil (or Vaseline)            | 1%          | [Walmart](https://www.walmart.com/ip/Equate-Mineral-Oil-Lubricant-Laxative-Liquid-for-Constipation-16-fl-oz-474mL/44807472) |
+| Oxidizer                            | Fuel/Reducing Agent                 | % by weight | db  | Source                                                                                                 |
+|-------------------------------------|-------------------------------------|-------------|-----|--------------------------------------------------------------------------------------------------------|
+| Potassium Perchlorate (KClO₄)       | Gallic Acid (C₇H₆O₅)                |             | -   | -                                |
+|                                     | Potassium Benzoate (KC₇H₅O₂)        |             | 100 | [Pyrochemsource](https://www.pyrochemsource.com/Potassium-Benzoate_p_58.html)                          |
+|                                     | Potassium Salicylate (C₇H₅KO₃)      |             | -   | -                                                                                                      |
+|                                     | Potassium Hydrogen Phthalate (KHP)  |             | <span style="color:red;">110</span> | [Pyrochemsource](https://www.pyrochemsource.com/Potassium-Hydrogen-Phthalate--KHP_p_104.html)          |
+|                                     | Sodium Salicylate (C₇H₅NaO₃)        |             | -   | [Pyrochemsource](https://www.pyrochemsource.com/Sodium-Salicylate_p_69.html)                           |
+|                                     | Natrium Benzoate (C₇H₅NaO₂)         |             | 101 | -                            |
+
+**Potassium Chlorate and a Fuel:**
+
+| Oxidizer                            | Fuel/Reducing Agent                 | % by weight | db  | Source                                                                                                 |
+|-------------------------------------|-------------------------------------|-------------|-----|--------------------------------------------------------------------------------------------------------|
+| Potassium Chlorate (KClO₃)          | Gallic Acid (C₇H₆O₅)                |             | 104 |                                 |
+|                                     | Potassium Benzoate (KC₇H₅O₂)        |             | 99  | [Pyrochemsource](https://www.pyrochemsource.com/Potassium-Benzoate_p_58.html)                          |
+|                                     | Potassium Salicylate (C₇H₅KO₃)      |             | -   | -                                                                                                      |
+|                                     | Potassium Hydrogen Phthalate (KHP)  |             | -   | [Pyrochemsource](https://www.pyrochemsource.com/Potassium-Hydrogen-Phthalate--KHP_p_104.html)          |
+|                                     | Sodium Salicylate (C₇H₅NaO₃)        |             | -   | [Pyrochemsource](https://www.pyrochemsource.com/Sodium-Salicylate_p_69.html)                           |
+|                                     | Natrium Benzoate (C₇H₅NaO₂)         |             | 101 | -                            |
 
 ---
 
